@@ -1,1 +1,1 @@
-<img width="384" height="384" alt="Sprit Logo" src="https://github.com/user-attachments/assets/281104f9-4bfb-4a6b-bef6-04c50af583d8" />
+<img width="256" height="256" alt="Sprit Logo" src="https://github.com/user-attachments/assets/000be65c-aecf-4b6d-9598-6457f75de365" />
